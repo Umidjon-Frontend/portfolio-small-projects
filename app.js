@@ -278,8 +278,8 @@ let load = dataAll.map((item) => {
     <div class="item-info">
       <h1 class="info-title">${item.name}</h1>
       <div class="info-btns">
-        <a href=${item.urlLiveDemo}>Live Demo</a>
-        <a href=${item.urlSourceCode}>Source Code</a>
+        <a href=${item.urlLiveDemo}>Live</a>
+        <a href=${item.urlSourceCode}>Code</a>
       </div>
     </div>
   </div>`;
@@ -313,8 +313,8 @@ btn.forEach((element, index) => {
           <div class="item-info">
             <h1 class="info-title">${item.name}</h1>
             <div class="info-btns">
-              <a href=${item.urlLiveDemo}>Live Demo</a>
-              <a href=${item.urlSourceCode}>Source Code</a>
+              <a href=${item.urlLiveDemo}>Live</a>
+              <a href=${item.urlSourceCode}>Code</a>
             </div>
           </div>
         </div>`;
