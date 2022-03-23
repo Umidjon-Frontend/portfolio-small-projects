@@ -199,46 +199,6 @@ const dataAll = [
     urlLiveDemo: "",
     urlSourceCode: "",
   },
-  {
-    id: 26,
-    type: "icons",
-    img: '"img/icons/icons11.png"',
-    name: "Social Media 11",
-    urlLiveDemo: "",
-    urlSourceCode: "",
-  },
-  {
-    id: 27,
-    type: "icons",
-    img: '"img/icons/icons12.png"',
-    name: "Social Media 12",
-    urlLiveDemo: "",
-    urlSourceCode: "",
-  },
-  {
-    id: 28,
-    type: "icons",
-    img: '"img/icons/icons13.png"',
-    name: "Social Media 13",
-    urlLiveDemo: "",
-    urlSourceCode: "",
-  },
-  {
-    id: 29,
-    type: "icons",
-    img: '"img/icons/icons14.png"',
-    name: "Social Media 14",
-    urlLiveDemo: "",
-    urlSourceCode: "",
-  },
-  {
-    id: 30,
-    type: "icons",
-    img: '"img/icons/icons15.png"',
-    name: "Social Media 15",
-    urlLiveDemo: "",
-    urlSourceCode: "",
-  },
 ];
 
 const data = [
